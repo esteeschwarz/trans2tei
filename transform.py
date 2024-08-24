@@ -1,6 +1,6 @@
 import subprocess
 
-SAXON_JAR = "saxon-he-10.5.jar"
+SAXON_JAR = "SaxonHE12-5J/saxon-he-12.5.jar"
 
 
 def base(xml_data, stylesheet):
